@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+uvicorn
+#filename
+#requrement.txt
